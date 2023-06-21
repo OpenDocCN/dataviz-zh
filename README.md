@@ -11,10 +11,6 @@
 > 人最大的痛苦就是说一些自己都不相信的话。——燕京学堂鹿会
 
 * [在线阅读](https://dataviz.apachecn.org)
-* [在线阅读（Gitee）](https://apachecn.gitee.io/dataviz-zh/)
-* [ApacheCN 面试求职交流群 724187166](https://jq.qq.com/?_wv=1027&k=54ujcL3)
-* [ApacheCN 学习资源](http://www.apachecn.org/)
-
 ## 编译
 
 ```
@@ -25,12 +21,6 @@ cd found-data-vis-zh
 gitbook <pdf|epub|mobi>
 ```
 
-## 联系方式
-
-*   在我们的 [apachecn/found-data-vis-zh](https://github.com/apachecn/found-data-vis-zh) github 上提 issue.
-*   发邮件到 Email: `apachecn@163.com`.
-*   在我们的 [组织学习交流群](http://www.apachecn.org/organization/348.html) 中联系群主/管理员即可.
-
 ## 下载
 
 ### Docker
@@ -38,14 +28,6 @@ gitbook <pdf|epub|mobi>
 ```
 docker pull apachecn0/dataviz-zh
 docker run -tid -p <port>:80 apachecn0/dataviz-zh
-# 访问 http://localhost:{port} 查看文档
-```
-
-### PYPI
-
-```
-pip install dataviz-zh
-dataviz-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
