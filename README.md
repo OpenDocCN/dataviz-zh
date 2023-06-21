@@ -57,6 +57,6 @@ dataviz-zh <port>
 # 访问 http://localhost:{port} 查看文档
 ```
 
-## 赞助我们
+## 赞助我
 
 ![](docs/img/qr_alipay.png)
